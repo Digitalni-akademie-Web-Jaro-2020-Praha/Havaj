@@ -1,4 +1,4 @@
-# Úkol: Havaj
+# Úkol: Výlet na Havaj
 
 ## Zadání
 
