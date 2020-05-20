@@ -1,3 +1,7 @@
+# Úkol: Havaj
+
+## Zadání
+
 Dvě kamarádky se rozhodly, že pojedou spolu na dovolenou. Jde o drahou dovolenou na Havaj, takže mohou jet pouze, pokud součet jejich úspor přesahuje 100 tisíc korun. Kamarádky se rozhodly, že budou platit všechno napůl, takže každá by měla platit 50 tisíc, ale hrozně se na dovolenou těší, takže vyrazí okamžitě, jakmile budou mít dohromady 100 tisíc, i kdyby jedna z nich měla platit víc. Dluh vyrovnají po dovolené.
 
 Napiš sérii podmínek, která zjistí (do konzole vypíše):
